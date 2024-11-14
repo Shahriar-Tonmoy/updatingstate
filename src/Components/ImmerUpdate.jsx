@@ -78,7 +78,6 @@ export default function ImmerUpdate(){
             <p>
                 There is an interesting area named -  <b>{person.Address.Area}</b>
             </p>
-
         </>
     )
 }
