@@ -76,7 +76,7 @@ export default function ImmerUpdate(){
                 There is a big city named <b>{person.Address.City}</b>
             </p>
             <p>
-                There is an interesting area named - <b>{person.Address.Area}</b>
+                There is an interesting area named -  <b>{person.Address.Area}</b>
             </p>
 
         </>
